@@ -2,4 +2,8 @@
 This is recipe generator ai project using open ai
 Here we import the OpenAI module, which provides an interface for interacting with OpenAI's language models and other AI services.
 I used Replit to run the code, which is an AI-powered software development and deployment platform.
+
+
+
+
 <img width="908" alt="image" src="https://github.com/Shivugourimath/Recipe-generator/assets/152435774/74adf69b-9568-459b-8e84-3694b1f28f4d">
