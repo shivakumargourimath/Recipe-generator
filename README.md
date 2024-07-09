@@ -1,5 +1,5 @@
 # Recipe-generator
-This is recipe generator ai project using open ai
+This is recipe generator ai project using open ai.
 Here we import the OpenAI module, which provides an interface for interacting with OpenAI's language models and other AI services.
 I used Replit to run the code, which is an AI-powered software development and deployment platform.
 
