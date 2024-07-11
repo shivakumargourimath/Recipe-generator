@@ -36,7 +36,7 @@
     
  <body >    
  <div class="container">   
-  <h1 class="my-4">Custom Recipe Tutorial Generator </h1 >    
+  <h1 class="my-4">Recipe Generator </h1 >    
   <form id="tutorial-form" onsubmit="event.preventDefault(); generateTutorial();" class="mb-3">   
   <div class="mb-3">   
    <label for="components" class="form-label">Ingredients / Items:</label >    
